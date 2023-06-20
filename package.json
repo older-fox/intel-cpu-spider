@@ -1,0 +1,22 @@
+{
+  "name": "cpu-spider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/semaphore": "^1.1.1",
+    "async-sema": "^3.1.1",
+    "cli-table3": "^0.6.3",
+    "conf": "10.2.0",
+    "got": "^12.6.0",
+    "mongoose": "^7.1.0",
+    "p-limit": "^4.0.0",
+    "puppeteer": "^19.11.1",
+    "sema": "^2.0.3",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.4"
+  }
+}
